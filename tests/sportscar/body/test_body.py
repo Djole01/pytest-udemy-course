@@ -5,8 +5,7 @@ from pytest import mark
 class BodyTests:
     @mark.ui
     @mark.door
-    def test_can_navigate_to_body_page(self, firefox_browser):
-        firefox_browser.get('https://www.google.com')
+    def test_body(self):
         assert True
 
     def test_bumper(self):
