@@ -3,7 +3,6 @@ from pytest import mark
 
 @mark.body
 class BodyTests:
-    @mark.ui
     @mark.door
     def test_body(self):
         assert True
