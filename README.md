@@ -43,4 +43,13 @@ markers =
     
 # conftest.py 
 
-fixtures (functions) that are available to all tests in conftest directory or below.
+Fixtures (functions) that are available to all tests in conftest directory or below.
+
+
+# pytest directories workaround
+
+To run pytest from programs root directory (no include problems),
+and to still use pytest.ini and conftest.py from test directory, execute pytest like this:
+
+From root directory: python -m pytest tests
+
