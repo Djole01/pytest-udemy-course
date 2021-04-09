@@ -54,3 +54,4 @@ and to still use pytest.ini and conftest.py from test directory, execute pytest 
 
 From root directory: python -m pytest tests
 
+or use Tox
