@@ -34,6 +34,7 @@ pytest -m customMark    - test select custom mark
 python_files = test_*
 python_classes = *Tests
 python_functions = test_*
+testpaths = tests
 
 markers =
     smoke: All critical smoke tests
