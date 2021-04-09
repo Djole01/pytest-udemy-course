@@ -24,16 +24,16 @@ copying titlecase/titlecase.py -> elegantcasing-1.0.1/titlecase
 Writing elegantcasing-1.0.1/setup.cfg
 creating '.tox/dist/elegantcasing-1.0.1.zip' and adding 'elegantcasing-1.0.1' to it
 adding 'elegantcasing-1.0.1'
-adding 'elegantcasing-1.0.1/elegantcasing.egg-info'
 adding 'elegantcasing-1.0.1/titlecase'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info'
+adding 'elegantcasing-1.0.1/setup.cfg'
 adding 'elegantcasing-1.0.1/README.md'
 adding 'elegantcasing-1.0.1/PKG-INFO'
 adding 'elegantcasing-1.0.1/setup.py'
-adding 'elegantcasing-1.0.1/setup.cfg'
-adding 'elegantcasing-1.0.1/elegantcasing.egg-info/top_level.txt'
-adding 'elegantcasing-1.0.1/elegantcasing.egg-info/SOURCES.txt'
-adding 'elegantcasing-1.0.1/elegantcasing.egg-info/PKG-INFO'
-adding 'elegantcasing-1.0.1/elegantcasing.egg-info/dependency_links.txt'
-adding 'elegantcasing-1.0.1/titlecase/__init__.py'
 adding 'elegantcasing-1.0.1/titlecase/titlecase.py'
+adding 'elegantcasing-1.0.1/titlecase/__init__.py'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/dependency_links.txt'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/PKG-INFO'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/SOURCES.txt'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/top_level.txt'
 removing 'elegantcasing-1.0.1' (and everything under it)
