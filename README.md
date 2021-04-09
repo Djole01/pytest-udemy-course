@@ -4,6 +4,15 @@ Automated testing with python
 Tutorial: https://www.udemy.com/course/elegant-automation-frameworks-with-python-and-pytest/
 
 
+# pytest arguments 
+
+- -m customMark : test marked tests
+- -v : more detailed test overview 
+- -rs : show skips
+- -rx : show xfails
+- (xdist) -n4 : 4 threads 
+- nauto : selects nr of threads automatically
+
 
 # pytest markers:
 - @mark.xfail(reason="reason for fail") - fail a test / expected failure
